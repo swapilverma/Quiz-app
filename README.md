@@ -1,6 +1,6 @@
 # FUN quizzes!!
 
-Hi!! Welcome to the quiz app
+Hi!! Welcome to the Quiz app
 
 Here, i have created a multiple choice fun quiz regarding the famous TV show "FRIENDS".
 
