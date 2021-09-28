@@ -13,7 +13,7 @@ function play(ques,option,ans) {
   }
   else {
     console.log(chalk.bgRedBright.black.bold("Wrong!"));
-    console.log(chalk.hex("#064E3B").bold("The correct answer was = "+ option[index]));
+    console.log(chalk.hex("#064E3B").bold("The correct answer was = "+ ans));
   }
   console.log("Score : "+ score);
   if (score === 5){
